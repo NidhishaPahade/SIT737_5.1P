@@ -1,7 +1,0 @@
-{"level":"info","message":"New addition operation requested: 5 + 3","service":"calculator-microservice"}
-{"level":"info","message":"New addition operation requested: 5 + 3","service":"calculator-microservice"}
-{"level":"info","message":"New subtraction operation requested: 5 - 3","service":"calculator-microservice"}
-{"level":"info","message":"New multiplication operation requested: 5 * 3","service":"calculator-microservice"}
-{"level":"info","message":"New division operation requested: 10 / 2","service":"calculator-microservice"}
-{"level":"info","message":"New division operation requested: 10 / 0","service":"calculator-microservice"}
-{"level":"error","message":"Division by zero is not allowed","service":"calculator-microservice"}
